@@ -11,15 +11,14 @@ Hybrid Approach: Merges both techniques to improve accuracy and overcome individ
 Scalable Backend: Efficiently handles large datasets for real-time recommendations.
 
 UI Development (In Progress): A user-friendly interface is under development to enable interactive recommendations.
+soon i'll add UI .
 
 🛠️ Tech Stack
 Python, Pandas, Scikit-learn, Surprise (for SVD)
 
 Jupyter Notebooks for experimentation
 
-Flask (planned) for API integration with the frontend
+Flask (planned) for API integration with the frontend 
 
 📂 Dataset
-if you reall need a dataset mail me , mail in bio.
-
-Would you like help adding code examples, usage instructions, or badges next?
+if you really need a dataset mail me , mail in bio. 
